@@ -59,6 +59,11 @@ _If you want to remove a directory that is empty or non-empty then just use this
 rm -rf <path of the directory to be deleted>
 ```
 
+## _Step 3_
+After the `cmake` command in [Step 2](https://github.com/C0DER11101/For_CMAKE/blob/Cmake/Basic.md#step-2), this will be the result:
+
+<img src="https://user-images.githubusercontent.com/96164229/214265618-3aacd8d4-4d30-435e-a310-2090ff127df4.png" width="60%" height="60%">
+
 
 
 ---
