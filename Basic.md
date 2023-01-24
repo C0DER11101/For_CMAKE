@@ -71,6 +71,28 @@ These will be the files present in `out/build/`
 ## _Step 4_
 Open `CMakeLists.txt`. Fill it with [these instructions](https://github.com/C0DER11101/For_CMAKE/blob/Cmake/CMakeLists.txt).
 
+**Explanation of each line:**
+
+`cmake_minimum_required(VERSION 3.16.3)` $\rightarrow$ basically it's going to check the minimum required version of CMake. It's generally recommended to put the current version of CMake into the parameter of `cmake_minimum_required`.
+
+`project(SimpleProject)` $\rightarrow$ add the project with the name `SimpleProject`. You can give any name you want in the parameter.
+
+`add_executable(${PROJECT_NAME} main.c)` $\rightarrow$ this function basically gives the executable a name. `${PROJECT_NAME}` is a variable that gets replaced by the name of the project(`SimpleProject` in this case). The format used for writing this variable is quite similar to the format used to write shell variables(the `$` sign and `{}` ). The second argument `main.c` is the name of the file for which we want to create the executable.
+
+## _Step 5_
+After filling in the instructions, run the `make` command in the directory where the `Makefile` is present as shown below:
+
+<img src="https://user-images.githubusercontent.com/96164229/214297927-96fb4a51-efe5-44a3-ae12-9bc21d89ae5d.png" width="60%" height="60%">
+
+Once, the command finishes execution you will find an executable with the name that you had provided to `project()` in [Step 4](https://github.com/C0DER11101/For_CMAKE/blob/Cmake/Basic.md#step-4).
+
+<img src="https://user-images.githubusercontent.com/96164229/214299092-e995b757-311b-47ad-8bba-7a4353294c77.png" width="60%" height="60%">
+
+## _Step 6_
+Run the executable.
+
+<img src="https://user-images.githubusercontent.com/96164229/214299918-6d23a854-7c77-4e00-a868-a93efc2506ab.png" width="60%" height="60%">
+
 
 
 ---
