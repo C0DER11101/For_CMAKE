@@ -1,0 +1,3 @@
+/home/priyanuj/Desktop/C0DER11101/CMake/out/build/CMakeFiles/rebuild_cache.dir
+/home/priyanuj/Desktop/C0DER11101/CMake/out/build/CMakeFiles/edit_cache.dir
+/home/priyanuj/Desktop/C0DER11101/CMake/out/build/CMakeFiles/SimpleProject.dir
