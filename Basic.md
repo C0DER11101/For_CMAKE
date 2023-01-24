@@ -64,6 +64,13 @@ After the `cmake` command in [Step 2](https://github.com/C0DER11101/For_CMAKE/bl
 
 <img src="https://user-images.githubusercontent.com/96164229/214265618-3aacd8d4-4d30-435e-a310-2090ff127df4.png" width="60%" height="60%">
 
+These will be the files present in `out/build/`
+
+<img src="https://user-images.githubusercontent.com/96164229/214266770-39e8e6a2-9478-4a48-a3af-9e68f0cbe550.png" width="60%" height="60%">
+
+## _Step 4_
+Open `CMakeLists.txt`. Fill it with [these instructions](https://github.com/C0DER11101/For_CMAKE/blob/Cmake/CMakeLists.txt).
+
 
 
 ---
