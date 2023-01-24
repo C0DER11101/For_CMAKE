@@ -2,7 +2,7 @@
 
 _CMake relies on a file named_ `CMakeLists.txt`(this is how the name must be written!!).
 
-Typing the command in the terminal will produce this:
+Typing the command `cmake` in the terminal will produce this:
 
 <img src="https://user-images.githubusercontent.com/96164229/214253728-6096803c-2f52-48cf-8c7b-1b76b753237d.png" width="60%" height="60%">
 
