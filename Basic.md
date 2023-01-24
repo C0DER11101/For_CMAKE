@@ -1,5 +1,7 @@
 # Basic
 
+**Note:** _The cited examples for directories and the directories used in practical use may differ, but the commands will remain the same._
+
 _CMake relies on a file named_ `CMakeLists.txt`(this is how the name must be written!!).
 
 Typing the command `cmake` in the terminal will produce this:
@@ -30,7 +32,7 @@ This command is used to create directories that are inside one another. If you t
 <img src="https://user-images.githubusercontent.com/96164229/214263527-b4f96d2f-00db-496a-858a-1e61f5fb95f4.png" width="60%" height="60%">
 
 ## _Step 2_
-After the command in [Step 1](), you may to move to `/out/build/` or you may stay in your present directory.
+After the command in [Step 1](https://github.com/C0DER11101/For_CMAKE/blob/Cmake/Basic.md#step-1), you may move to `/out/build/` or you may stay in your present directory.
 
 **If you are in your present directory, then this should be your command:**
 ```bash
