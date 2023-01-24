@@ -2,6 +2,8 @@
 
 _For Cmake._
 
+[Short documentation about CMakeLists.txt](https://www.jetbrains.com/help/clion/cmakelists-txt-file.html#code-insight-cmake).
+
 Found some sources:
 
 [CMake tut 1](https://www.youtube.com/playlist?list=PLalVdRk2RC6o5GHu618ARWh0VO0bFlif4)
