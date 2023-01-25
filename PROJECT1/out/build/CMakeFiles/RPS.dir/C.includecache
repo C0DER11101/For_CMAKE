@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/priyanuj/Desktop/C0DER11101/CMake/PROJECT1/RPS.c
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+time.h
+-
+string.h
+-
+

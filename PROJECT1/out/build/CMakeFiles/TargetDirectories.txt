@@ -1,0 +1,7 @@
+/home/priyanuj/Desktop/C0DER11101/CMake/PROJECT1/out/build/CMakeFiles/install/local.dir
+/home/priyanuj/Desktop/C0DER11101/CMake/PROJECT1/out/build/CMakeFiles/install.dir
+/home/priyanuj/Desktop/C0DER11101/CMake/PROJECT1/out/build/CMakeFiles/list_install_components.dir
+/home/priyanuj/Desktop/C0DER11101/CMake/PROJECT1/out/build/CMakeFiles/rebuild_cache.dir
+/home/priyanuj/Desktop/C0DER11101/CMake/PROJECT1/out/build/CMakeFiles/edit_cache.dir
+/home/priyanuj/Desktop/C0DER11101/CMake/PROJECT1/out/build/CMakeFiles/install/strip.dir
+/home/priyanuj/Desktop/C0DER11101/CMake/PROJECT1/out/build/CMakeFiles/RPS.dir

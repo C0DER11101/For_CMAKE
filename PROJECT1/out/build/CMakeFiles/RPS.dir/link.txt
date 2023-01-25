@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/RPS.dir/RPS.c.o  -o RPS 
