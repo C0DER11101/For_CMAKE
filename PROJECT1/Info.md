@@ -6,7 +6,7 @@ This is an instruction in `CMakeLists.txt` in this folder(`PROJECT1`).
 install(TARGETS ${PROJECT_NAME} DESTINATION bin)
 ```
 
-This command will install the targets for the executable in the destination `bin` which, in Linux, is usr/local/bin/
+This command will install the targets for the executable in the destination `bin` which, in Linux, is `usr/local/bin/`
 (We have already talked about `${PROJECT_NAME}` in [Basic.md](https://github.com/C0DER11101/For_CMAKE/blob/Cmake/Basic.md).
 
 Why is it required?
