@@ -79,6 +79,8 @@ Open `CMakeLists.txt`. Fill it with [these instructions](https://github.com/C0DE
 
 `add_executable(${PROJECT_NAME} main.c)` $\rightarrow$ this function basically gives the executable a name. `${PROJECT_NAME}` is a variable that gets replaced by the name of the project(`SimpleProject` in this case). The format used for writing this variable is quite similar to the format used to write shell variables(the `$` sign and `{}` ). The second argument `main.c` is the name of the file for which we want to create the executable.
 
+**Remember to run** `cmake` **command everytime you add a new instruction to** `CMakeLists.txt`, **just to keep it updated!!**.
+
 ## _Step 5_
 After filling in the instructions, run the `make` command in the directory where the `Makefile` is present as shown below:
 
