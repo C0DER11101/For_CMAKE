@@ -10,7 +10,7 @@ This command will install the targets for the executable in the destination `bin
 (We have already talked about `${PROJECT_NAME}` in [Basic.md](https://github.com/C0DER11101/For_CMAKE/blob/Cmake/Basic.md).
 
 Why is it required?
-My executable `RPS` is in the `build` directory, so that means everytime I want to run my executable, I will have to move to the build directory in and then run the executable which is a lot of work. So instead you can write this command:
+My executable `RPS` is in the `build` directory, so that means everytime I want to run my executable, I will have to move to the `build` directory and then run the executable which is a lot of work. So instead you can write this command:
 
 ```bash
 make install
