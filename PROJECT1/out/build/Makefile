@@ -196,6 +196,33 @@ RPS.c.s:
 	$(MAKE) -f CMakeFiles/RPS.dir/build.make CMakeFiles/RPS.dir/RPS.c.s
 .PHONY : RPS.c.s
 
+triangle.o: triangle.c.o
+
+.PHONY : triangle.o
+
+# target to build an object file
+triangle.c.o:
+	$(MAKE) -f CMakeFiles/RPS.dir/build.make CMakeFiles/RPS.dir/triangle.c.o
+.PHONY : triangle.c.o
+
+triangle.i: triangle.c.i
+
+.PHONY : triangle.i
+
+# target to preprocess a source file
+triangle.c.i:
+	$(MAKE) -f CMakeFiles/RPS.dir/build.make CMakeFiles/RPS.dir/triangle.c.i
+.PHONY : triangle.c.i
+
+triangle.s: triangle.c.s
+
+.PHONY : triangle.s
+
+# target to generate assembly for a file
+triangle.c.s:
+	$(MAKE) -f CMakeFiles/RPS.dir/build.make CMakeFiles/RPS.dir/triangle.c.s
+.PHONY : triangle.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -212,6 +239,9 @@ help:
 	@echo "... RPS.o"
 	@echo "... RPS.i"
 	@echo "... RPS.s"
+	@echo "... triangle.o"
+	@echo "... triangle.i"
+	@echo "... triangle.s"
 .PHONY : help
 
 

@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/RPS.dir/RPS.c.o"
+  "CMakeFiles/RPS.dir/triangle.c.o"
   "RPS"
   "RPS.pdb"
 )

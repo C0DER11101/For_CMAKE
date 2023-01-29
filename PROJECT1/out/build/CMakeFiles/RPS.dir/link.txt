@@ -1,1 +1,1 @@
-/usr/bin/cc    CMakeFiles/RPS.dir/RPS.c.o  -o RPS 
+/usr/bin/cc    CMakeFiles/RPS.dir/RPS.c.o CMakeFiles/RPS.dir/triangle.c.o  -o RPS 

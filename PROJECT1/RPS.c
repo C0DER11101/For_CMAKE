@@ -4,6 +4,7 @@
 #include<time.h>
 #include<string.h>
 
+void triangle();
 int main(void)
 {
 	srand(time(NULL));
@@ -96,11 +97,20 @@ int main(void)
 	printf("My score: %d\n", CompScore);
 
 	if(PlayerScore>CompScore)
+	{
 		printf("\nCongratulations %s! You won the game!!\n", playerName);
+		triangle();
+	}
+
 	else if(CompScore>PlayerScore)
+	{
 		printf("\nI won the game!!\n");
+	}
+
 	else
+	{
 		printf("\nIt's a draw!!\n");
+	}
 
 	free(playerName);
 

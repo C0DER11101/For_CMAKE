@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
   "/home/priyanuj/Desktop/C0DER11101/CMake/PROJECT1/RPS.c" "/home/priyanuj/Desktop/C0DER11101/CMake/PROJECT1/out/build/CMakeFiles/RPS.dir/RPS.c.o"
+  "/home/priyanuj/Desktop/C0DER11101/CMake/PROJECT1/triangle.c" "/home/priyanuj/Desktop/C0DER11101/CMake/PROJECT1/out/build/CMakeFiles/RPS.dir/triangle.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

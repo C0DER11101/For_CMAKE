@@ -3,3 +3,5 @@
 
 CMakeFiles/RPS.dir/RPS.c.o: ../../RPS.c
 
+CMakeFiles/RPS.dir/triangle.c.o: ../../triangle.c
+

@@ -2,7 +2,7 @@
 
 This is an instruction in `CMakeLists.txt` in this folder(`PROJECT1`).
 
-```bash
+```cmake
 install(TARGETS ${PROJECT_NAME} DESTINATION bin)
 ```
 
@@ -35,6 +35,21 @@ This will prompt you to enter your password(if you are the admin). Type in your 
 After this no matter where you are in your computer, you will be able run your executable by just typing its name(you don't even have to type `./` before it). It will become a command as shown below:
 
 <img src="https://user-images.githubusercontent.com/96164229/214603059-58da606e-3fe3-42d2-9848-5a3054722080.png" width="60%" height="60%">
+
+## Slight modification on [29/01/2023]
+
+Here I have created another file called `triangle.c` which will basically print a triangle if the user wins the game against the computer.
+
+Now we have to modify our `CMakeLists.txt` by adding `triangle.c` to the argument list of `add_executable()` and this how you add it:
+
+```cmake
+add_executable(${PROJECT_NAME} RPS.c triangle.c}
+```
+
+After this, run the `cmake` command as already mentioned in [Basic.md](https://github.com/C0DER11101/For_CMAKE/blob/Cmake/Basic.md). After that run the `make` command and run `make install` as you did previously.
+
+This basically links `RPS.c` with `triangle.c`(for this to happen you only need the commands till `make`, the `make install` command is optional, but since I had used it previously on this project that's I have used to again.).
+
 
 
 ---
