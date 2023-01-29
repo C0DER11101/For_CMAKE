@@ -43,7 +43,7 @@ Here I have created another file called `triangle.c` which will basically print 
 Now we have to modify our `CMakeLists.txt` by adding `triangle.c` to the argument list of `add_executable()` and this how you add it:
 
 ```cmake
-add_executable(${PROJECT_NAME} RPS.c triangle.c}
+add_executable(${PROJECT_NAME} RPS.c triangle.c)
 ```
 
 After this, run the `cmake` command as already mentioned in [Basic.md](https://github.com/C0DER11101/For_CMAKE/blob/Cmake/Basic.md). After that run the `make` command and run `make install` as you did previously.
