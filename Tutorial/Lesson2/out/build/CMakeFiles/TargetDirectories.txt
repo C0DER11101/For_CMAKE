@@ -1,0 +1,6 @@
+/home/priyanuj/Desktop/C0DER11101/ForKernel/CMake/Tutorial/Lesson2/out/build/CMakeFiles/rebuild_cache.dir
+/home/priyanuj/Desktop/C0DER11101/ForKernel/CMake/Tutorial/Lesson2/out/build/CMakeFiles/edit_cache.dir
+/home/priyanuj/Desktop/C0DER11101/ForKernel/CMake/Tutorial/Lesson2/out/build/CMakeFiles/SimpleProject.dir
+/home/priyanuj/Desktop/C0DER11101/ForKernel/CMake/Tutorial/Lesson2/out/build/Adder/CMakeFiles/rebuild_cache.dir
+/home/priyanuj/Desktop/C0DER11101/ForKernel/CMake/Tutorial/Lesson2/out/build/Adder/CMakeFiles/edit_cache.dir
+/home/priyanuj/Desktop/C0DER11101/ForKernel/CMake/Tutorial/Lesson2/out/build/Adder/CMakeFiles/adder.dir

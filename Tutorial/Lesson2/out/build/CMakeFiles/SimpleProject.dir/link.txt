@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/SimpleProject.dir/main.c.o  -o SimpleProject   -L/home/priyanuj/Desktop/C0DER11101/ForKernel/CMake/Tutorial/Lesson2/Adder  -Wl,-rpath,/home/priyanuj/Desktop/C0DER11101/ForKernel/CMake/Tutorial/Lesson2/Adder Adder/libadder.a 

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/priyanuj/Desktop/C0DER11101/ForKernel/CMake/Tutorial/Lesson2/Adder/adder.c
+adder.h
+/home/priyanuj/Desktop/C0DER11101/ForKernel/CMake/Tutorial/Lesson2/Adder/adder.h
+
+/home/priyanuj/Desktop/C0DER11101/ForKernel/CMake/Tutorial/Lesson2/Adder/adder.h
+
