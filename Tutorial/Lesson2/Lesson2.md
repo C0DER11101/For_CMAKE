@@ -39,7 +39,7 @@ Here the format of `make` looks different but actually it's doing the same thing
 
 Now, we are going to build the adder as a library.
 
-We will create a folder named `Adder/` first and move `adder.c` to this folder. In that folder we will also add another new file named `adder.h` and put the declaration of the function `dd()` in that header file. Now, in this folder we will have to create another CMakeLists.txt.
+We will create a folder named `Adder/` first and move `adder.c` to this folder. In that folder we will also add another new file named `adder.h` and put the declaration of the function `add()` in that header file. Now, in this folder we will have to create another CMakeLists.txt.
 
 Now, this CMakeLists.txt is a *sub-level CMakeLists.txt* and the CMakeLists.txt that is in `Lesson2/` is the *top-level CmakeLists.txt*.
 
